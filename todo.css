@@ -1,14 +1,18 @@
-#myDiv{
+/*#myDiv{
 	padding-left: 30%;
 	font-size: 40px;
+   
+}*/
+
+
+
+#list {
+	padding-left: 30%;
+    font-size: 20px;
+
 
 }
-
-
-html{
-	background-color: grey;
-}
-#ul{
-	padding-left: 40%;
-    font-size: 30px;
+body{
+	background-image: url(https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+   background-size: cover;
 }
